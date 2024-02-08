@@ -29,7 +29,7 @@ const Hero = () => {
               {/* Text */}
               <div className='hero_text w-[567px] flex flex-col items-center text-center xl:text-left lg:items-start p-20'>
 
-                <h1 className='h1 mb-8'>Let Your Home Be Unique Let Your Home Be Unique</h1>
+                <h1 className='h1 mb-8'>Let Your Home Be Unique</h1>
                 <p className='mb-8'>There are many variations of the passages of lorem Ipsum from available,variations of the passages.</p>
                 <button className=' btn btn-primary'>Get free estimation <FaRegArrowAltCircleRight className='text-accent' /></button>
               </div>
